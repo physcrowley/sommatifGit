@@ -1,0 +1,9 @@
+# binaires
+/target/
+/bin
+*.class
+
+# configuration locale
+.settings
+.classpath
+.project
